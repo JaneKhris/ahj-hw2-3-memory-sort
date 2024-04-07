@@ -1,0 +1,10 @@
+table {
+    border-collapse: collapse;
+    width: 600px;
+}
+
+
+td {
+    border: 2px solid green;
+    background-color: rgb(233, 255, 240);
+}
